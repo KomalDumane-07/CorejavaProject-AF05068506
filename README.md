@@ -1,4 +1,4 @@
-# Blood Bank Management System
+# Blood Bank
 
 ## Project Synopsis
 The Blood Bank Management System is a console-based Core Java project that manages donors, customers, blood inventory, and blood requests. 
